@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273129554789",
+    "firebase_url": "https://meetathobby.firebaseio.com",
+    "project_id": "meetathobby",
+    "storage_bucket": "meetathobby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273129554789:android:1e73a1a030c29908bb578c",
+        "android_client_info": {
+          "package_name": "com.example.meethobby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273129554789-pugj5148cd7f4m5hpoujavci5sbl9iqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meethobby",
+            "certificate_hash": "72db22d9c004d41af9c38db8922a3315a80a8394"
+          }
+        },
+        {
+          "client_id": "273129554789-4c7oj5vso4i3gffkdjpj0d2n9e99oqro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC0LMldn5U8LHGTJVYd90GtuargtbPEPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273129554789-4c7oj5vso4i3gffkdjpj0d2n9e99oqro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
